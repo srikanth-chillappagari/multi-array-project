@@ -1,6 +1,6 @@
-#Java Project
+#Multi Array Project
 
-*Project for creating Java applications which do coomon tasks.*
+*Multi Array Java Project.*
 
 **Java 7**
 
